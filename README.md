@@ -17,7 +17,6 @@ Improve Network Traffic Analysis Skills: By utilizing tools like Wireshark, the 
 - Troubleshooting and Problem-Solving
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
 
 - Kali Linux
 - Ubuntu
