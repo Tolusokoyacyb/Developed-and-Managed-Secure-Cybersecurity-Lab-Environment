@@ -1,24 +1,30 @@
 # Developed and Managed Secure Cybersecurity Lab Environment
 
-## Objective
+## Goal of Project
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+Simulate Real-World Cybersecurity Scenarios: By using Kali Linux, Ubuntu, and VirtualBox, the project aimed to replicate a real-world network environment for testing and learning various cybersecurity techniques.
+
+Enhance Network Security: Through configuring firewalls (using UFW and nmap), the project focused on securing networks by implementing access rules, monitoring traffic, and blocking potential threats.
+
+Improve Network Traffic Analysis Skills: By utilizing tools like Wireshark, the project sought to enhance skills in advanced network traffic analysis, identifying anomalies, troubleshooting network issues, and analyzing protocols like TCP/IP, DNS, and HTTP for better security and performance optimization.
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
 
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+- Cybersecurity Fundamentals
+- Network Traffic Analysis
+- Virtualization and System Configuration
+- Penetration Testing and Vulnerability Assessment
+- Troubleshooting and Problem-Solving
 
 ### Tools Used
 [Bullet Points - Remove this afterwards]
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+- Kali Linux
+- Ubuntu
+- VirtualBox
+- UFW(Uncomplicated Firewall)
+- nmap
+- Wireshark
 
 ## Steps
 drag & drop screenshots here or use imgur and reference them using imgsrc
