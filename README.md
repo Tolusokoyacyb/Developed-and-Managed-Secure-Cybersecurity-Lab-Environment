@@ -1,6 +1,6 @@
 # Developed and Managed Secure Cybersecurity Lab Environment
 
-## Goal of Project
+## Goals of Project
 
 Simulate Real-World Cybersecurity Scenarios: By using Kali Linux, Ubuntu, and VirtualBox, the project aimed to replicate a real-world network environment for testing and learning various cybersecurity techniques.
 
