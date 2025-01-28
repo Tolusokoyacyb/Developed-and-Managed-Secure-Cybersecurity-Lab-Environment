@@ -25,11 +25,8 @@ Improve Network Traffic Analysis Skills: By utilizing tools like Wireshark, the 
 - nmap
 - Wireshark
 
-## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
+## Pictures
+![image alt](https://github.com/Tolusokoyacyb/Developed-and-Managed-Secure-Cybersecurity-Lab-Environment/blob/3fc5cc61428fd761fb9f70cbc025f653466492bd/Screenshot%202025-01-28%20034050.png)
+![image alt](https://github.com/Tolusokoyacyb/Developed-and-Managed-Secure-Cybersecurity-Lab-Environment/blob/3fc5cc61428fd761fb9f70cbc025f653466492bd/Screenshot%202025-01-28%20034155.png)
+![image alt](https://github.com/Tolusokoyacyb/Developed-and-Managed-Secure-Cybersecurity-Lab-Environment/blob/3fc5cc61428fd761fb9f70cbc025f653466492bd/Screenshot%202025-01-28%20034839.png)
 
-Every screenshot should have some text explaining what the screenshot is about.
-
-Example below.
-
-*Ref 1: Network Diagram*
